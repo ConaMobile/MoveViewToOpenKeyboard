@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoveViewToOpenKeyboard</string>
+    <string name="hello">Hello</string>
+    <string name="button">Button</string>
+</resources>
